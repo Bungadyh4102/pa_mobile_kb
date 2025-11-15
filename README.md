@@ -15,15 +15,15 @@
  - Buka 2 terminal
 
  **Terminal 1:**
- conda activate pakbmobile
- python manage.py runserver
+ - conda activate pakbmobile
+ - python manage.py runserver
 
  **Terminal 2:**
- conda activate pakbmobile
- lt --port 8000 --subdomain mobile123
+ - conda activate pakbmobile
+ - lt --port 8000 --subdomain mobile123
 
  **Catatan:**
- Kedua terminal harus tetap terbuka selama aplikasi digunakan.
+ Kedua terminal harus tetap terbuka selama aplikasi digunakan dan laptop serta hp harus di satu jaringan yang sama jangan wifi publik, pakai hotspot pribadi saja.
 
 ---
 
