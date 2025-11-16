@@ -22,6 +22,9 @@
  - conda activate pakbmobile
  - lt --port 8000 --subdomain mobile123
 
+ **Model KB**
+ https://colab.research.google.com/drive/1bFmHgtexVD_mhmRDCcUzoqMFy89xN6_L?usp=sharing
+
  **Catatan:**
  Kedua terminal harus tetap terbuka selama aplikasi digunakan dan laptop serta hp harus di satu jaringan yang sama jangan wifi publik, pakai hotspot pribadi saja.
 
